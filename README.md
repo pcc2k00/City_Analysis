@@ -1,4 +1,4 @@
-# City-Analysis
+# City Analysis
 
 You can visit the project webpage through this link
 https://young-dusk-41516.herokuapp.com/ (takes time to load)
